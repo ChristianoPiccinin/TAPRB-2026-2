@@ -1,7 +1,7 @@
 import logging
-import azure.functions as func
 import os
 import pyodbc
+import azure.functions as func
 
 app = func.FunctionApp()
 
